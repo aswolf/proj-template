@@ -1,0 +1,35 @@
+.
+├── README.md
+├── analysis
+│   ├── README.md
+│   └── analysis-name
+│       ├── README.md
+│       ├── figs
+│       └── tbls
+├── bin
+├── code
+│   ├── README.md
+│   └── code-base-name
+├── data
+│   ├── README.md
+│   ├── process
+│   │   ├── README.md
+│   │   └── process-name
+│   │       ├── README.md
+│   │       ├── data-dest -> ../../storage/data-process-name/
+│   │       └── exp-dir -> ../../../exp/
+│   └── storage
+│       ├── data-process-name
+│       └── data-static-name
+├── dir-tree-template.txt
+├── exp
+│   ├── README.md
+│   └── yyyy-mm-dd
+│       └── README.md
+├── tree.txt
+└── writeup
+    ├── README.md
+    ├── paper-1
+    └── paper-2
+
+20 directories, 12 files
